@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/joeurassa/Documents/Matetas/YEARS/2025AD/FA2025/fal2025_code/CS394R_FINAL_PROJECT/tchebycheffs_inequlity/tchebycheffs_inequlity",
+      "program": "/Users/joeurassa/Documents/Matetas/YEARS/2025AD/FA2025/fal2025_code/CS394R_FINAL_PROJECT/tchebycheffs_inequlity/tchebycheffs_inequlity/build/Debug/outDebug"
+    }
+  ]
+}
