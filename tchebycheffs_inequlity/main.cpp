@@ -292,7 +292,7 @@ double empiricalTailProb(const double* data,
 
 int main(int argc, const char * argv[]) {
     // ---- user configuration ----
-    std::string apiKey = "WWGYXWJZQYDH9SOT"; // <- put your key
+    std::string apiKey = ""; // <- put your key
     std::string symbol = "AAPL";
     double k = 2.0;
 
